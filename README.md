@@ -6,31 +6,31 @@
 
 ### Difficulty Breakdown
 
-- 🟩 Easy: 34 / 109
-- 🟨 Medium: 55 / 290
-- 🟥 Hard: 3 / 52
+- 🟩 Easy: 00 / 109
+- 🟨 Medium: 00 / 290
+- 🟥 Hard: 00 / 52
 
 ## 🎯 Progress By Category
 
-- [ ] Arrays & Hashing (27/58)
-- [ ] Two Pointers (12/18)
-- [ ] Sliding Window (8/15)
-- [ ] Stack (13/19)
-- [ ] Binary Search (8/24)
-- [ ] Linked List (5/29)
-- [ ] Trees (0/42)
-- [ ] Tries (2/4)
-- [ ] Heap / Priority Queue (0/17)
-- [ ] Backtracking (9/18)
-- [ ] Graphs (1/39)
-- [ ] Advanced Graphs (0/11)
-- [ ] 1-D Dynamic Programming (4/36)
-- [ ] 2-D Dynamic Programming (3/26)
-- [ ] Greedy (11/18)
-- [ ] Intervals (5/8)
-- [ ] Math & Geometry (4/22)
-- [ ] Bit Manipulation (2/11)
-- [ ] JavaScript (0/30)
+- [ ] Arrays & Hashing (00/58)
+- [ ] Two Pointers (00/18)
+- [ ] Sliding Window (00/15)
+- [ ] Stack (00/19)
+- [ ] Binary Search (00/24)
+- [ ] Linked List (00/29)
+- [ ] Trees (00/42)
+- [ ] Tries (0/4)
+- [ ] Heap / Priority Queue (00/17)
+- [ ] Backtracking (00/18)
+- [ ] Graphs (00/39)
+- [ ] Advanced Graphs (00/11)
+- [ ] 1-D Dynamic Programming (00/36)
+- [ ] 2-D Dynamic Programming (00/26)
+- [ ] Greedy (00/18)
+- [ ] Intervals (0/8)
+- [ ] Math & Geometry (00/22)
+- [ ] Bit Manipulation (00/11)
+- [ ] JavaScript (00/30)
 
 ## 💡 About
 
@@ -758,3 +758,4 @@ This repository contains solutions to the NeetCode 450+ problem set, a carefully
 - 🟨 [Event Emitter](https://leetcode.com/problems/event-emitter/)
 - 🟨 [Nested Array Generator](https://leetcode.com/problems/nested-array-generator/)
 </details>
+
